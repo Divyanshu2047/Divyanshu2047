@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<h1 align="center">📦 Inventory Management System</h1>
+<h1 align="center"><B>Divyanshu</B></h1>
 <h3 align="center">⚙️ Spring Boot Backend | 📊 Real-Time Stock Tracking | 🚀 Scalable Architecture</h3>
 
 <p align="center">
